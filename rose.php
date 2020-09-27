@@ -10,5 +10,4 @@ if (!isset($_SERVER['HTTP_REFERER'])) {
 ?>
 
 <body style="background-color: #C02E4C">
-
 </body>
