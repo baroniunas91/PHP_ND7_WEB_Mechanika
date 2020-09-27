@@ -18,9 +18,9 @@ if (!empty($_POST)) {
 
 <body style="background-color: <?= $color ?>">
     <form action="" method="get">
-        <button name="get" value="green" type="submit" style="color: black; background-color: white; padding: 5px 20px; border-radius: 5px; border: 1px solid black;">GET</button>
+        <button name="get" type="submit" style="color: black; background-color: white; padding: 5px 20px; border-radius: 5px; border: 1px solid black;">GET</button>
     </form>
     <form action="" method="post">
-        <button name="post" value="yellow" type="submit" style="color: black; background-color: white; padding: 5px 20px; border-radius: 5px; border: 1px solid black;">POST</button>
+        <button name="post" type="submit" style="color: black; background-color: white; padding: 5px 20px; border-radius: 5px; border: 1px solid black;">POST</button>
     </form>
 </body>

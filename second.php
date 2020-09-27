@@ -1,6 +1,8 @@
 <?php
 echo '2) ----------------------------------------------------------------------------------------------------';
 echo '<br>';
+echo 'Į URL eilutę įrašykite: ?color=ff1234';
+echo '<br>';
 echo '<br>';
 // Sukurti puslapį panašų į 1 uždavinį, tiktai antro linko su perduodamu kintamuoju nedarykite, 
 // o vietoj to padarykite, URL eilutėje ranka įvedus GET kintamąjį color su RGB spalvos kodu 

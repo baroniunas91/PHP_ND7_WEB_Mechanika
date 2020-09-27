@@ -15,7 +15,7 @@ if (isset($_GET['color'])) {
 
 <body style="background-color: <?= $color ?? 'none' ?>">
     <form action="" method="get">
-        <label>Įveskite spalvą arba rgb kodą:</label>
+        <label>Įveskite spalvą:</label>
         <br>
         <input type="text" name="color">
         <button href="http://localhost/BIT/ND7_WEB_Mechanika/third.php" type="submit" style="color: black; background-color: white; padding: 5px 20px; border-radius: 5px; border: 1px solid black;">Nustatyti</button>
